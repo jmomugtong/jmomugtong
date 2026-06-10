@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://github.com/jmomugtong">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&center=true&vCenter=true&width=720&lines=Founding+RevOps+%26+Automation+Architect;AI+Engineer+building+offline-first+clinical+RAG;UP+Diliman+ECE+%7C+Makati%2C+Philippines" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&center=true&vCenter=true&width=760&lines=Founding+RevOps+%26+Automation+Architect;Bridging+AI+to+Business+%C2%B7+From+0+%E2%86%92+1+to+Enterprise+Scale;UP+Diliman+ECE+%7C+Makati+City%2C+PH" alt="Typing SVG" />
 </a>
 
 </div>
@@ -12,10 +12,10 @@
 
 ### About me
 
-- Founding **RevOps & Automation Architect** at **Tarek Buys Houses** — designing the systems that scale revenue operations.
+- Founding **RevOps & Automation Architect** at **Tarek Buys Houses** (Anaheim, CA) — designing the systems that scale revenue operations.
 - **AI Engineer** focused on **offline-first clinical RAG** for Philippine healthcare ([KaagapAI](https://github.com/jmomugtong/KaagapAI), [halo-offline-clinical-rag](https://github.com/jmomugtong/halo-offline-clinical-rag)).
 - Electronics & Communications Engineering (ECE) — **UP Diliman**.
-- Based in **Anaheim, California, USA**.
+- Based in **Makati City, Philippines**, working remotely across timezones.
 - Currently exploring hybrid retrieval, cross-encoder reranking, and zero-cost open-source LLM pipelines.
 
 ---
