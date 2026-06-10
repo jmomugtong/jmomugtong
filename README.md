@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://github.com/jmomugtong">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&center=true&vCenter=true&width=720&lines=Founding+RevOps+%26+Automation+Architect;AI+Engineer+building+offline-first+clinical+RAG;UP+Diliman+ECE+%7C+Anaheim%2C+CA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&center=true&vCenter=true&width=720&lines=Founding+RevOps+%26+Automation+Architect;AI+Engineer+building+offline-first+clinical+RAG;UP+Diliman+ECE+%7C+Makati%2C+Philippines" alt="Typing SVG" />
 </a>
 
 </div>
